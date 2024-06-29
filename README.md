@@ -33,5 +33,8 @@
         <li>Set up your environment variables in a <code>.env</code> file.</li>
         <li>Run the Streamlit app with <code>streamlit run main.py</code>.</li>
     </ol>
+    ![img1](<Screenshot 2024-06-29 203923.png>)
+    ![img2](<Screenshot 2024-06-29 204020.png>)
+    ![img3](<Screenshot 2024-06-29 204050.png>)
 </body>
 </html>
