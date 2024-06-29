@@ -26,6 +26,6 @@ ChefGPT is an AI-powered personal chef assistant built using LangChain and Strea
 
 ## Demo Screenshots
 
-![Screenshot 1](Screenshot2024-06-29_203923.png)
-![Screenshot 2](Screenshot2024-06-29_204020.png)
-![Screenshot 3](Screenshot2024-06-29_204050.png)
+![Screenshot 2024-06-29 203923](https://github.com/kiranmajji1620/chefGPT/assets/119588005/7da10459-b001-4367-9862-697e5e02ff71)
+![Screenshot 2024-06-29 204020](https://github.com/kiranmajji1620/chefGPT/assets/119588005/22d0ec1c-5686-42fe-b98a-315db80bc6eb)
+![Screenshot 2024-06-29 204050](https://github.com/kiranmajji1620/chefGPT/assets/119588005/f1424703-cd0e-4159-b1b7-666bd54d7127)
